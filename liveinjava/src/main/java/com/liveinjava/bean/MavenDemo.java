@@ -12,5 +12,6 @@ public class MavenDemo {
 	public void calculate(int a,int b)
 	{
 		
+		int c = a+b;
 	}
 }
