@@ -7,11 +7,12 @@ public class MavenDemo {
  * @param b
  */
 	
+	int result;
 	
 	
 	public void calculate(int a,int b)
 	{
-		
-		int c = a+b;
+		 result=a+b;
+		 System.out.println("Addition="+result);
 	}
 }
